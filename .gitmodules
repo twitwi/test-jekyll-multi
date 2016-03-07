@@ -4,3 +4,6 @@
 [submodule "git-novice"]
 	path = git-novice
 	url = https://github.com/swcarpentry/git-novice.git
+[submodule "python-novice-inflammation"]
+	path = python-novice-inflammation
+	url = https://github.com/swcarpentry/python-novice-inflammation.git

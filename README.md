@@ -29,7 +29,7 @@ In this example:
 - version v5.3 of the git lesson is used, one can see the differences between the two versions (NB: it is subtle − in the titles − as the .html have probably not been regenerated recently in the main repository):
     - http://twitwi.github.io/test-jekyll-multi-swc-4.3-fake/git-novice/01-basics.html
     - http://swcarpentry.github.io/git-novice/01-basics.html
-
+- version v5.3 of the python lesson
 
 
 ## Discussion
