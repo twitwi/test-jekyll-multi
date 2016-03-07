@@ -20,7 +20,7 @@ Git submodules are leveraged to achieve multiple goals:
 
 ## Viewing the example site
 
-[http://twitwi.github.io/test-jekyll-multi-swc-4.3-fake/](view the site)
+View the site: http://twitwi.github.io/test-jekyll-multi-swc-4.3-fake/
 
 For this example, an index is added, but the swc website could act as such index too.
 
