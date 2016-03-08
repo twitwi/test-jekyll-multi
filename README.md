@@ -24,7 +24,7 @@ View the site: http://twitwi.github.io/test-jekyll-multi-swc-4.3-fake/
 
 For this example, an index is added, but the swc website could act as such index too.
 
-In this example:
+In this example, at the root, we have a mix of lessons:
 - the last version of the shell lesson has been taken,
 - version v5.3 of the git lesson is used, one can see the differences between the two versions (NB: it is subtle − in the titles − as the .html have probably not been regenerated recently in the main repository):
     - http://twitwi.github.io/test-jekyll-multi-swc-4.3-fake/git-novice/01-basics.html
@@ -32,6 +32,13 @@ In this example:
 - version v5.3 of the python lesson, e.g. the “lists” page
     - http://twitwi.github.io/test-jekyll-multi-swc-4.3-fake/python-novice-inflammation/03-lists.html
     - vs the latest http://swcarpentry.github.io/python-novice-inflammation/03-lists.html
+
+
+To avoid release-repository-creep, we could have a subfolder per version.
+In the 5.3 subfolder (http://twitwi.github.io/test-jekyll-multi-swc-4.3-fake/5.3/), we have the same lessons, all in version 5.3.
+One can compare, shell 5.3 and the shell "latest":
+- http://twitwi.github.io/test-jekyll-multi-swc-4.3-fake/5.3/shell-novice/
+- http://twitwi.github.io/test-jekyll-multi-swc-4.3-fake/shell-novice/
 
 
 ## Discussion
