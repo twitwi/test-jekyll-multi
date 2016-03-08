@@ -7,3 +7,12 @@
 [submodule "python-novice-inflammation"]
 	path = python-novice-inflammation
 	url = https://github.com/swcarpentry/python-novice-inflammation.git
+[submodule "5.3/git-novice"]
+	path = 5.3/git-novice
+	url = https://github.com/swcarpentry/git-novice.git
+[submodule "5.3/python-novice-inflammation"]
+	path = 5.3/python-novice-inflammation
+	url = https://github.com/swcarpentry/python-novice-inflammation.git
+[submodule "5.3/shell-novice"]
+	path = 5.3/shell-novice
+	url = https://github.com/swcarpentry/shell-novice.git
