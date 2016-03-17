@@ -16,3 +16,6 @@
 [submodule "5.3/shell-novice"]
 	path = 5.3/shell-novice
 	url = https://github.com/swcarpentry/shell-novice.git
+[submodule "5.3/2015-06-02-cern-lhcb"]
+	path = 5.3/2015-06-02-cern-lhcb
+	url = https://github.com/twitwi/2015-06-02-cern-lhcb.git
